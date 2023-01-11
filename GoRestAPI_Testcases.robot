@@ -1,4 +1,3 @@
-#!/bin/env python
 *** Settings ***
 Documentation    This script is used to test APIs for a given URL.
 ...              This script covers Verification of Functional and non functional test cases
